@@ -1,5 +1,5 @@
 # `Utils`
-These are some utilities for the Namespace-Directory Synchronisation Webinar
+Material for Namespace-Directory Synchronisation webinar and for Jupyter presentation at Dyalog '18.
 
 ## `Math` namespace
 Number stuff.
@@ -9,6 +9,16 @@ Takes one or more numbers and converts them to hexadecimal with a width which is
 
 ### `Id` function
 Takes a matrix and returns the corresponding identity matrix.
+
+## `Notebooks`
+
+### `ArithMean.ipynb`
+
+Simple notebook document suitable for running on TryAPL.
+
+### `Health Care Spending.ipynb`
+
+Advanced notebook document with rich output.
 
 ## `Strings` namespace
 Text stuff.
