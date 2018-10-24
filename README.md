@@ -10,15 +10,15 @@ Takes one or more numbers and converts them to hexadecimal with a width which is
 ### `Id` function
 Takes a matrix and returns the corresponding identity matrix.
 
-## `Notebooks`
+## `Notebooks` namespace
 
-### `ArithMean.ipynb`
+### `ArithMean.ipynb` Jupyter notebook document
 
-Simple notebook document suitable for running on TryAPL.
+Suitable for running on TryAPL.
 
-### `Health Care Spending.ipynb`
+### `Health Care Spending.ipynb` Jupyter notebook document
 
-Advanced notebook document with rich output.
+Advanced with rich output.
 
 ## `Strings` namespace
 Text stuff.
